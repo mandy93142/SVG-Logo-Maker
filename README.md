@@ -1,5 +1,5 @@
 # SVG-Logo-Maker
-Video link on how the project works: 
+Video link on how the project works: https://drive.google.com/file/d/1JtwnOLJzC2F8Q_CHN2CYkTJ0lI-6HpnA/view
 
 Object-oriented Programming Challenge: SVG Logo Maker
 
